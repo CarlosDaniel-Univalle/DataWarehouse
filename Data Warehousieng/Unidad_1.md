@@ -64,9 +64,6 @@
 
 ## Metodologia SMART
 
-![dd](C:\Users\carlo\Desktop\Quinto Semestre\Data Warehousieng\image_1.jpg)
-![N|Solid](R.png)
-
 **Específico (Specific):** Las metas deben ser claras y específicas, evitando ambigüedades y asegurando que todos los involucrados tengan una comprensión clara de lo que se debe lograr.
 
 **Medible (Measurable):** Las metas deben ser cuantificables y verificables. Esto significa que deben ser objetivas y que se puedan medir de alguna manera. Por ejemplo, si una meta es "aumentar las ventas", debe especificarse cuánto se espera aumentarlas.
@@ -188,5 +185,125 @@ Los KPI son herramientas esenciales para medir el exito y la eficacio en el logr
 - Toma de decisiones y sistemas de informacion 
     - Un sistema de informacion es un conjunto de elementos que interactuan entre si con el fin de apoyar las actividades de una empresa o negocio.
 
-- 
+- **El equipo computacional:** el hardware necesario para que el sistema de informacion pueda operar.
+
+El recurso humano que interactian con el sistema de informacion el cual esta formado por las personas que utilizan el sistema.
+
+### Toma de decisiones y sistemas de Informacion
+
+Un sistema de informacion realiza cuatro actividades: entrada almacenamiento, procesamiento, salidad de informacion.
+
+- **Entrada de informacion:** Proceso mediante el cual el sistema de informacion toma los datos que requiere para procesar la informacion. Las entradas pueden ser manuales o automaticas. 
+
+    - **Manuales:** son aquellas que se proporciona en forma directa por el usuario.
+
+    - **Automaticas:** son datos o informacion que provienen o son tomados de otro sistema o modulos. Esto ultimo se denominan interes automaticos.
+
+    Las unidades tipicas de entrada de datos a las computables son las terminales, las cintas magneticas, unidades de diskete, codigos de barra, voz, monitores sensibles al tacto, sensores, camaras de seguridad, teclado, mouse, etc.
+
+### Procesamiento de Informacion
+
+Capacidad del sistema de Informacion para efectuar calculos de acuerdo con una secuencia de operaciones preestablecidas. Estos calculos pueden efecctuarse con datos que estan almacenados.
+
+Esta caracteristica permite la transformacion de datos fuente en informacion que puede ser utilizada para la toma de decisiones, lo que hace posible, entre otras cosas que un tomador de decisiones genere una proyeccion financiera a partir de los datos que contiene un estado de resultado o un balance de un ano baje.
+
+### Salida de Informacion
+
+Capacidad de un Sistema de Informacion para sacar la informacion procesada do bien de entrada al exterior.
+
+Unidades: Impresoras, terminales, disketes, cintas magneticas, voz, graficadores, etc.
+
+Aclarar que la salida de un sistema de Informacion puede constituir la entrada a otros sistemas de Informacion u otros modulos. En este caso tambien, existe una interface automatica de salida. 
+
+>Ejemplo:
+>
+>En sistemas de control de clientes tiene una interface automatica de salida con el sistema de contabilidad.
+>
+>---
+
+### Toma de deciones y sistemas de informacion
+
+Sistemas de Informacion cumplen tres objetivos basicos dentro de los organizaciones:
+
+- Automatizacion de procesos operativos.
+- Proporcionar informacion que sirva de apoyo al proceso de toma de decisiones.
+- Lograr ventajas competitivas a traves de si implementacion y uso.
+
+
+>### Actividades Basicas de un sistema de Informacion
+>
+>Entrada de datos y Interfaces automaticas de entrada, van a Proceso, de Proceso va Reportes e Informes e Interface automatico de salida, Almacenamiento va a Proceso y de Porceso a Almacenamiento.
+>
+>---
+
+- Los sistemas de Informacion que logran la automatizacion de procesos operativos dentro de unaorganizacion, son llamados Sistemas Transaccionales.
+
+    - **TPS:** funcion primordial, consiste en procesos transaccionales tales como pagos, cobros, polizas, entradas y salidas.
+
+- Los Sistemas de Informacion quee apoyan el proceso forma de decisones son los Sistemas de Soporte a la toma de decisiones, DSS, Sistema para la toma de decisiones de Grupo GDSS, Sistemas Expertos de Soporte a la toma de decisiones EDSS, Sistema de Informacion para ejecutivos ETS.
+
+- Tercer tipo de Sistema de acuerdo con su uso o objetivos que cumplen, es el de los sistemas Estrategicos, se desarrollan en la organizaciones con el fin de lograr ventajas competitivas, a traves del uso de la tecnologia de Informacion EIS.
+
+> - **Executive Information Systems**
+> - **Decision Support Systems**
+> - **Management Information Systems**
+> - **Transaction Processing Systems**
+
+### Sistemas Transaccionales TPS
+
+- Ocurren ahorros significativos de mano de obra, debido a que automatizan tareas operativas de la organizacion.
+
+- Frecuentemente son el primer tipo de Sitemas de Informacion que se implanta en las organizaciones. Se empieza apuntando las tareas a nivel operativo de la organizacion.
+
+- Son intensivos en entrada y salida de informacion: sus claculos y procesos suelen ser simples y poco sofisticados.
+
+- Propiedad de ser recolectores de informacion, a traves de estos sistemas se cargan las grandes bases de informacion para su explotacion posterir.
+
+- Faciles de justificar ante la decision general, beneficios visibles y palpables.
+
+
+### Sistemas de Soporte d a la toma de Decisiones DSS
+
+#### Enfoque en el usuario
+
+- **DSS Pasivo:** sistema que ayuda al proceso de toma de decisiones, pero que no puede generar sugerencias o soluciones de decision explicitas.
+
+- **DSS Activo:** herramienta capaz dde generar tales sugerencias de decisiones o soluciones.
+
+- **DSS Cooperativo:** permite un proceso iterativo entre el ser humano y el sistema hacia el logor de una solucion consolidada.
+
+---
+
+- El tomado de decisiones, (persona de gestion), puede modificar, completar o retirar las sugerencias de decision proporcionadas por el sistema, antes de ser enviadas de vuelta al sistema para la validacion.
+
+- De la misma forma el sistema nuevamente mejora, completa y retira las sugerencias del tomador de decisones y las envia ade regreso para su validadcion.
+
+---
+
+#### Enfoque Privilegiado
+
+- **DSS impulsado por la comunicacion:** permite la  cooperacion, apoyando a mas de una persona que trabaja en una tarea cmmpartida.
+
+    >Ejemplos:
+    >
+    >Las herramientas integrales, Google Docs, etc
+
+- **DSS basado en datos:** Sistema de soporte orientado a datos. Enfatiza el acceso y la manipulacion de una serie temporal de datos internos de la empresa y a veces externos.
+
+- **DSS basado en documentos:** Administra, recupera y manipula informacion no estructurada en una variedad de formatos electronicos.
+
+- **DSS basado en conocimiento:** Proporciona experiencia especializada en resolucion de problemas almacenada como hecho, reglas, procedimientos o en estricturas similares como arboles de decisiones interactivos y diagramas de flujo.
+
+- **DSS basado en modelos:** enfatiza el acceso y manipulacion de un modelo estadistico, financiero de optimizacion o de simulacion. Este sistema de soporte usa datos y parametros proporcionados por los usuarios para apoyar a los tomadores de decisiones a analizar una decision. No son necesariamente intensivos en datos.
+
+- **DSS Vnetajas:**
+
+    - Ayudan a tomar decisiones mas informadas.
+    - DSS, usados por gerencia de nivel superior y medio, se usan para evaluar la viabilidad de una iniciativa o producir multiples resultados posibles basados en datos actuales e historicos de la empresa.
+    - Sirve para producir informes para los clientes que son facilmente comprensibles y se pueden ajustar en funcion de las especificaciones del usuario.
+
+- **DSS Herramientas:**
+    - Matrix de decision
+    - Matrix GUT (Gravedad, Vigencia, Tendencia)
+    - Matriz de Eisenhower
 
